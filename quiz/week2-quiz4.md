@@ -35,9 +35,9 @@ You run gradient descent for 15 iterations with α=0.3 and compute J(θ) after e
 
 ### Answer
 
-* **Rather than use the current value of α, it'd be more promising to try a larger value of α (say α=1.0).**
+* Rather than use the current value of α, it'd be more promising to try a larger value of α (say α=1.0).
 	* A larger value for α should increase the rate of convergence to the minimum of J(θ).
-* Rather than use the current value of α, it'd be more promising to try a smaller value of α (say α=0.1).
+* **Rather than use the current value of α, it'd be more promising to try a smaller value of α (say α=0.1).**
 * α=0.3 is an effective choice of learning rate.
 
 
